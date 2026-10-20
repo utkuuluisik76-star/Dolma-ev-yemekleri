@@ -3,6 +3,8 @@ import {readFile,writeFile,mkdir,stat} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 const path=p=>fileURLToPath(new URL(p,import.meta.url));
+// The original Instagram photos (_bronfotos) are not in Git. On a host without them (Cloudflare) the committed web images in public/images are used as they are.
+if(!(await import('node:fs')).existsSync(path('../_bronfotos/logo.png'))){console.log('[media] no originals found, keeping the committed images');process.exit(0)}
 await mkdir(path('../public/images/dolma'),{recursive:true});
 const specs={
   terrace:{crop:{left:24,top:31,width:863,height:868},landscape:1.06,portrait:.76},
