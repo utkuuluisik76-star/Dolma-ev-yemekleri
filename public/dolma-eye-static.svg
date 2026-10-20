@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 610" role="img" aria-labelledby="title desc">
+  <title id="title">Dolma — slingerend beschermend oog</title>
+  <desc id="desc">Een getekend oog van riet met een blauw en turquoise geweven midden, witte linten en veren.</desc>
+  <style>
+    .ornament{transform-origin:220px 12px;animation:none}
+    .ribbon{animation:none;transform-box:fill-box;transform-origin:50% 0}
+    .late{animation-delay:-1.2s}.early{animation-delay:-.5s}
+    @keyframes sway{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes drift{0%,100%{transform:rotate(3deg)}50%{transform:rotate(-4deg)}}
+    @media(prefers-reduced-motion:reduce){.ornament,.ribbon{animation:none}}
+  </style>
+  <defs>
+    <g id="feather">
+      <path d="M0 0C-21 17-29 43-21 67C-17 78-7 91 0 104C7 85 19 71 21 51C24 29 11 11 0 0Z" fill="#fffdf6" stroke="#d6d5c9" stroke-width="1"/>
+      <path d="M0-7V107M0 24L-14 37M0 38L15 52M0 53L-17 65M0 68L10 79" fill="none" stroke="#d4d8d2" stroke-width="1"/>
+    </g>
+    <pattern id="weave" width="12" height="12" patternUnits="userSpaceOnUse"><path d="m0 0 12 12M12 0 0 12" stroke="#faf5e8" stroke-width=".8" opacity=".7"/></pattern>
+  </defs>
+  <g class="ornament">
+    <path d="M220 12V104" stroke="#dfd7bc" stroke-width="3"/>
+    <circle cx="220" cy="56" r="6" fill="#c7ab76"/>
+    <path d="M49 167Q220-3 391 167Q220 324 49 167Z" fill="none" stroke="#c1a06b" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M49 167Q220-3 391 167Q220 324 49 167Z" fill="none" stroke="#f1e0b7" stroke-width="2"/>
+    <path d="m64 156 65 55-25-88 72 118-27-148 70 157 39-157-8 148 75-119-17 89 69-54M64 178l65-54-25 87 72-118-27 148 70-157 39 157-8-148 75 118-17-87 69 54" fill="none" stroke="#e7dfca" stroke-width="1.3"/>
+    <ellipse cx="220" cy="165" rx="70" ry="64" fill="#153968" stroke="#c3ab7e" stroke-width="8"/>
+    <ellipse cx="220" cy="165" rx="55" ry="50" fill="#f8f6e9"/>
+    <ellipse cx="220" cy="165" rx="41" ry="37" fill="#219aa4"/>
+    <ellipse cx="220" cy="165" rx="28" ry="26" fill="#0a2b3c"/>
+    <ellipse cx="220" cy="165" rx="68" ry="62" fill="url(#weave)"/>
+    <ellipse cx="220" cy="165" rx="70" ry="64" fill="none" stroke="#e9d9ae" stroke-width="3" stroke-dasharray="2 7"/>
+    <g class="ribbon early">
+      <path d="M91 202Q79 254 91 310T82 370" fill="none" stroke="#f8f7ed" stroke-width="7"/>
+      <circle cx="82" cy="370" r="6" fill="#279aa3"/>
+      <use href="#feather" transform="translate(82 381) rotate(14) scale(.75)"/>
+    </g>
+    <g class="ribbon late">
+      <path d="M151 229Q164 285 150 351T152 430" fill="none" stroke="#f8f7ed" stroke-width="8"/>
+      <circle cx="152" cy="430" r="6" fill="#279aa3"/>
+      <use href="#feather" transform="translate(152 441) rotate(6)"/>
+    </g>
+    <g class="ribbon">
+      <path d="M203 234Q191 310 205 385T202 468" fill="none" stroke="#fffdf6" stroke-width="9"/>
+      <circle cx="202" cy="468" r="6" fill="#2495a0"/>
+      <use href="#feather" transform="translate(202 479) rotate(-7)"/>
+    </g>
+    <g class="ribbon late">
+      <path d="M240 234Q251 306 240 363T246 435" fill="none" stroke="#f5f3e9" stroke-width="7"/>
+      <circle cx="246" cy="435" r="6" fill="#279aa3"/>
+      <use href="#feather" transform="translate(246 446) rotate(-12) scale(.85)"/>
+    </g>
+    <g class="ribbon early">
+      <path d="M291 226Q279 278 290 329T288 379" fill="none" stroke="#fffdf6" stroke-width="8"/>
+      <circle cx="288" cy="379" r="6" fill="#279aa3"/>
+      <use href="#feather" transform="translate(288 390) rotate(-10) scale(.9)"/>
+    </g>
+    <g class="ribbon">
+      <path d="M345 199Q359 250 346 302T348 331" fill="none" stroke="#f8f7ed" stroke-width="6"/>
+      <circle cx="348" cy="331" r="6" fill="#279aa3"/>
+      <use href="#feather" transform="translate(348 342) rotate(-16) scale(.75)"/>
+    </g>
+  </g>
+</svg>

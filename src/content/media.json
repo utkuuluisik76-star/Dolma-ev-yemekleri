@@ -1,0 +1,178 @@
+{
+  "terrace": {
+    "landscape": {
+      "avif": "/images/dolma/terrace-4310e229d9-landscape-400.avif 400w, /images/dolma/terrace-4310e229d9-landscape-640.avif 640w, /images/dolma/terrace-4310e229d9-landscape-860.avif 860w, /images/dolma/terrace-4310e229d9-landscape-863.avif 863w",
+      "webp": "/images/dolma/terrace-4310e229d9-landscape-400.webp 400w, /images/dolma/terrace-4310e229d9-landscape-640.webp 640w, /images/dolma/terrace-4310e229d9-landscape-860.webp 860w, /images/dolma/terrace-4310e229d9-landscape-863.webp 863w",
+      "width": 863,
+      "height": 814,
+      "src": "/images/dolma/terrace-4310e229d9-landscape-863.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/terrace-4310e229d9-portrait-400.avif 400w, /images/dolma/terrace-4310e229d9-portrait-640.avif 640w, /images/dolma/terrace-4310e229d9-portrait-659.avif 659w",
+      "webp": "/images/dolma/terrace-4310e229d9-portrait-400.webp 400w, /images/dolma/terrace-4310e229d9-portrait-640.webp 640w, /images/dolma/terrace-4310e229d9-portrait-659.webp 659w",
+      "width": 659,
+      "height": 867,
+      "src": "/images/dolma/terrace-4310e229d9-portrait-659.webp"
+    }
+  },
+  "table": {
+    "landscape": {
+      "avif": "/images/dolma/table-6e19f302af-landscape-400.avif 400w, /images/dolma/table-6e19f302af-landscape-640.avif 640w, /images/dolma/table-6e19f302af-landscape-860.avif 860w, /images/dolma/table-6e19f302af-landscape-866.avif 866w",
+      "webp": "/images/dolma/table-6e19f302af-landscape-400.webp 400w, /images/dolma/table-6e19f302af-landscape-640.webp 640w, /images/dolma/table-6e19f302af-landscape-860.webp 860w, /images/dolma/table-6e19f302af-landscape-866.webp 866w",
+      "width": 866,
+      "height": 577,
+      "src": "/images/dolma/table-6e19f302af-landscape-866.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/table-6e19f302af-portrait-400.avif 400w, /images/dolma/table-6e19f302af-portrait-640.avif 640w, /images/dolma/table-6e19f302af-portrait-693.avif 693w",
+      "webp": "/images/dolma/table-6e19f302af-portrait-400.webp 400w, /images/dolma/table-6e19f302af-portrait-640.webp 640w, /images/dolma/table-6e19f302af-portrait-693.webp 693w",
+      "width": 693,
+      "height": 866,
+      "src": "/images/dolma/table-6e19f302af-portrait-693.webp"
+    }
+  },
+  "vine-leaves": {
+    "landscape": {
+      "avif": "/images/dolma/vine-leaves-7e6f141558-landscape-400.avif 400w, /images/dolma/vine-leaves-7e6f141558-landscape-640.avif 640w, /images/dolma/vine-leaves-7e6f141558-landscape-860.avif 860w, /images/dolma/vine-leaves-7e6f141558-landscape-866.avif 866w",
+      "webp": "/images/dolma/vine-leaves-7e6f141558-landscape-400.webp 400w, /images/dolma/vine-leaves-7e6f141558-landscape-640.webp 640w, /images/dolma/vine-leaves-7e6f141558-landscape-860.webp 860w, /images/dolma/vine-leaves-7e6f141558-landscape-866.webp 866w",
+      "width": 866,
+      "height": 773,
+      "src": "/images/dolma/vine-leaves-7e6f141558-landscape-866.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/vine-leaves-7e6f141558-portrait-400.avif 400w, /images/dolma/vine-leaves-7e6f141558-portrait-640.avif 640w, /images/dolma/vine-leaves-7e6f141558-portrait-689.avif 689w",
+      "webp": "/images/dolma/vine-leaves-7e6f141558-portrait-400.webp 400w, /images/dolma/vine-leaves-7e6f141558-portrait-640.webp 640w, /images/dolma/vine-leaves-7e6f141558-portrait-689.webp 689w",
+      "width": 689,
+      "height": 861,
+      "src": "/images/dolma/vine-leaves-7e6f141558-portrait-689.webp"
+    }
+  },
+  "sehzade": {
+    "landscape": {
+      "avif": "/images/dolma/sehzade-d2e013082d-landscape-400.avif 400w, /images/dolma/sehzade-d2e013082d-landscape-640.avif 640w, /images/dolma/sehzade-d2e013082d-landscape-840.avif 840w",
+      "webp": "/images/dolma/sehzade-d2e013082d-landscape-400.webp 400w, /images/dolma/sehzade-d2e013082d-landscape-640.webp 640w, /images/dolma/sehzade-d2e013082d-landscape-840.webp 840w",
+      "width": 840,
+      "height": 750,
+      "src": "/images/dolma/sehzade-d2e013082d-landscape-840.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/sehzade-d2e013082d-portrait-400.avif 400w, /images/dolma/sehzade-d2e013082d-portrait-640.avif 640w, /images/dolma/sehzade-d2e013082d-portrait-688.avif 688w",
+      "webp": "/images/dolma/sehzade-d2e013082d-portrait-400.webp 400w, /images/dolma/sehzade-d2e013082d-portrait-640.webp 640w, /images/dolma/sehzade-d2e013082d-portrait-688.webp 688w",
+      "width": 688,
+      "height": 860,
+      "src": "/images/dolma/sehzade-d2e013082d-portrait-688.webp"
+    }
+  },
+  "flowers": {
+    "landscape": {
+      "avif": "/images/dolma/flowers-703563a9e8-landscape-400.avif 400w, /images/dolma/flowers-703563a9e8-landscape-640.avif 640w, /images/dolma/flowers-703563a9e8-landscape-860.avif 860w, /images/dolma/flowers-703563a9e8-landscape-862.avif 862w",
+      "webp": "/images/dolma/flowers-703563a9e8-landscape-400.webp 400w, /images/dolma/flowers-703563a9e8-landscape-640.webp 640w, /images/dolma/flowers-703563a9e8-landscape-860.webp 860w, /images/dolma/flowers-703563a9e8-landscape-862.webp 862w",
+      "width": 862,
+      "height": 770,
+      "src": "/images/dolma/flowers-703563a9e8-landscape-862.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/flowers-703563a9e8-portrait-400.avif 400w, /images/dolma/flowers-703563a9e8-portrait-640.avif 640w, /images/dolma/flowers-703563a9e8-portrait-692.avif 692w",
+      "webp": "/images/dolma/flowers-703563a9e8-portrait-400.webp 400w, /images/dolma/flowers-703563a9e8-portrait-640.webp 640w, /images/dolma/flowers-703563a9e8-portrait-692.webp 692w",
+      "width": 692,
+      "height": 865,
+      "src": "/images/dolma/flowers-703563a9e8-portrait-692.webp"
+    }
+  },
+  "cabbage": {
+    "landscape": {
+      "avif": "/images/dolma/cabbage-b9da7dbe13-landscape-400.avif 400w, /images/dolma/cabbage-b9da7dbe13-landscape-640.avif 640w, /images/dolma/cabbage-b9da7dbe13-landscape-860.avif 860w, /images/dolma/cabbage-b9da7dbe13-landscape-862.avif 862w",
+      "webp": "/images/dolma/cabbage-b9da7dbe13-landscape-400.webp 400w, /images/dolma/cabbage-b9da7dbe13-landscape-640.webp 640w, /images/dolma/cabbage-b9da7dbe13-landscape-860.webp 860w, /images/dolma/cabbage-b9da7dbe13-landscape-862.webp 862w",
+      "width": 862,
+      "height": 770,
+      "src": "/images/dolma/cabbage-b9da7dbe13-landscape-862.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/cabbage-b9da7dbe13-portrait-400.avif 400w, /images/dolma/cabbage-b9da7dbe13-portrait-640.avif 640w, /images/dolma/cabbage-b9da7dbe13-portrait-692.avif 692w",
+      "webp": "/images/dolma/cabbage-b9da7dbe13-portrait-400.webp 400w, /images/dolma/cabbage-b9da7dbe13-portrait-640.webp 640w, /images/dolma/cabbage-b9da7dbe13-portrait-692.webp 692w",
+      "width": 692,
+      "height": 865,
+      "src": "/images/dolma/cabbage-b9da7dbe13-portrait-692.webp"
+    }
+  },
+  "plate": {
+    "landscape": {
+      "avif": "/images/dolma/plate-408a0e409c-landscape-400.avif 400w, /images/dolma/plate-408a0e409c-landscape-640.avif 640w, /images/dolma/plate-408a0e409c-landscape-860.avif 860w, /images/dolma/plate-408a0e409c-landscape-872.avif 872w",
+      "webp": "/images/dolma/plate-408a0e409c-landscape-400.webp 400w, /images/dolma/plate-408a0e409c-landscape-640.webp 640w, /images/dolma/plate-408a0e409c-landscape-860.webp 860w, /images/dolma/plate-408a0e409c-landscape-872.webp 872w",
+      "width": 872,
+      "height": 779,
+      "src": "/images/dolma/plate-408a0e409c-landscape-872.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/plate-408a0e409c-portrait-400.avif 400w, /images/dolma/plate-408a0e409c-portrait-640.avif 640w, /images/dolma/plate-408a0e409c-portrait-689.avif 689w",
+      "webp": "/images/dolma/plate-408a0e409c-portrait-400.webp 400w, /images/dolma/plate-408a0e409c-portrait-640.webp 640w, /images/dolma/plate-408a0e409c-portrait-689.webp 689w",
+      "width": 689,
+      "height": 861,
+      "src": "/images/dolma/plate-408a0e409c-portrait-689.webp"
+    }
+  },
+  "fruit": {
+    "landscape": {
+      "avif": "/images/dolma/fruit-661604a973-landscape-400.avif 400w, /images/dolma/fruit-661604a973-landscape-640.avif 640w, /images/dolma/fruit-661604a973-landscape-860.avif 860w, /images/dolma/fruit-661604a973-landscape-863.avif 863w",
+      "webp": "/images/dolma/fruit-661604a973-landscape-400.webp 400w, /images/dolma/fruit-661604a973-landscape-640.webp 640w, /images/dolma/fruit-661604a973-landscape-860.webp 860w, /images/dolma/fruit-661604a973-landscape-863.webp 863w",
+      "width": 863,
+      "height": 771,
+      "src": "/images/dolma/fruit-661604a973-landscape-863.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/fruit-661604a973-portrait-400.avif 400w, /images/dolma/fruit-661604a973-portrait-640.avif 640w, /images/dolma/fruit-661604a973-portrait-689.avif 689w",
+      "webp": "/images/dolma/fruit-661604a973-portrait-400.webp 400w, /images/dolma/fruit-661604a973-portrait-640.webp 640w, /images/dolma/fruit-661604a973-portrait-689.webp 689w",
+      "width": 689,
+      "height": 861,
+      "src": "/images/dolma/fruit-661604a973-portrait-689.webp"
+    }
+  },
+  "interior": {
+    "landscape": {
+      "avif": "/images/dolma/interior-b210cf08b6-landscape-400.avif 400w, /images/dolma/interior-b210cf08b6-landscape-640.avif 640w, /images/dolma/interior-b210cf08b6-landscape-860.avif 860w, /images/dolma/interior-b210cf08b6-landscape-862.avif 862w",
+      "webp": "/images/dolma/interior-b210cf08b6-landscape-400.webp 400w, /images/dolma/interior-b210cf08b6-landscape-640.webp 640w, /images/dolma/interior-b210cf08b6-landscape-860.webp 860w, /images/dolma/interior-b210cf08b6-landscape-862.webp 862w",
+      "width": 862,
+      "height": 770,
+      "src": "/images/dolma/interior-b210cf08b6-landscape-862.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/interior-b210cf08b6-portrait-400.avif 400w, /images/dolma/interior-b210cf08b6-portrait-640.avif 640w, /images/dolma/interior-b210cf08b6-portrait-688.avif 688w",
+      "webp": "/images/dolma/interior-b210cf08b6-portrait-400.webp 400w, /images/dolma/interior-b210cf08b6-portrait-640.webp 640w, /images/dolma/interior-b210cf08b6-portrait-688.webp 688w",
+      "width": 688,
+      "height": 860,
+      "src": "/images/dolma/interior-b210cf08b6-portrait-688.webp"
+    }
+  },
+  "breakfast": {
+    "landscape": {
+      "avif": "/images/dolma/breakfast-bb679d6358-landscape-400.avif 400w, /images/dolma/breakfast-bb679d6358-landscape-476.avif 476w",
+      "webp": "/images/dolma/breakfast-bb679d6358-landscape-400.webp 400w, /images/dolma/breakfast-bb679d6358-landscape-476.webp 476w",
+      "width": 476,
+      "height": 425,
+      "src": "/images/dolma/breakfast-bb679d6358-landscape-476.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/breakfast-bb679d6358-portrait-340.avif 340w",
+      "webp": "/images/dolma/breakfast-bb679d6358-portrait-340.webp 340w",
+      "width": 340,
+      "height": 425,
+      "src": "/images/dolma/breakfast-bb679d6358-portrait-340.webp"
+    }
+  },
+  "grills": {
+    "landscape": {
+      "avif": "/images/dolma/grills-016fd19d35-landscape-400.avif 400w, /images/dolma/grills-016fd19d35-landscape-427.avif 427w",
+      "webp": "/images/dolma/grills-016fd19d35-landscape-400.webp 400w, /images/dolma/grills-016fd19d35-landscape-427.webp 427w",
+      "width": 427,
+      "height": 381,
+      "src": "/images/dolma/grills-016fd19d35-landscape-427.webp"
+    },
+    "portrait": {
+      "avif": "/images/dolma/grills-016fd19d35-portrait-305.avif 305w",
+      "webp": "/images/dolma/grills-016fd19d35-portrait-305.webp 305w",
+      "width": 305,
+      "height": 381,
+      "src": "/images/dolma/grills-016fd19d35-portrait-305.webp"
+    }
+  }
+}

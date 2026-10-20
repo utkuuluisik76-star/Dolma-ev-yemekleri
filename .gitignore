@@ -31,3 +31,6 @@ desktop.ini
 # Generated from CMS uploads at every dev/build (scripts/cms-images.mjs)
 public/images/cms/
 src/content/generated/
+
+# Original Instagram photos (the business owns them; only web-sized crops go to Git)
+/_bronfotos/

@@ -1,0 +1,2 @@
+import './globals.css';
+export default function NotFound(){return <html lang="tr"><head><meta name="robots" content="noindex,nofollow"/><title>Sayfa bulunamadı · Dolma</title></head><body><main className="not-found"><p>Dolma · Demo</p><h1>Sayfa bulunamadı.</h1><p lang="en">Page not found.</p><a className="button" href="/">Ana sayfa</a><a className="text-link" href="/en/">English</a></main></body></html>;}
