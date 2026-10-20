@@ -1,0 +1,33 @@
+# Dependencies and build output (Cloudflare Pages rebuilds these from source)
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+*.zip
+
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.npmrc
+
+# Local tooling
+.wrangler
+*.local
+*.log
+npm-debug.log*
+
+# QA output (screenshots, Lighthouse reports): npm run qa:shots / qa:lighthouse
+/qa/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated from CMS uploads at every dev/build (scripts/cms-images.mjs)
+public/images/cms/
+src/content/generated/
